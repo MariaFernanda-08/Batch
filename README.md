@@ -24,9 +24,9 @@ A atividade proposta teve o objetivo de criar pastas contendo os dias do mês es
 ## Desafios no processo
 Houve sim desafios e dificuldades ao longo do processo, mas nada que um colega ou o professor não consiga resolver/ajudar, um foi ajudando o outro durante a criação, vendo onde estava o erro entre as linhas, esclarecendo dúvidas, explicando o que cada parte do script faz e etc., porém foi bem didático todo o processo. A parte mais díficil foi definitivamente, a adição da mensagem e do calcúlo se o ano era ou não bissexto, porque de início parecia algo fácil, porém ao tentar colocar o problema no VS Code, a mente travou, aos poucos alguns possíveis caminhos apareciam e no final deu tudo certo.
 ## O que aprendi
-Aprendi a trabalhar melhor meu raciocínio lógico, a como calcular se um ano é bissexto ou não, pensar em soluções eficazes para o problema proposto. 
+Aprendi a trabalhar melhor meu raciocínio lógico, a como calcular se um ano é bissexto ou não, pensar em soluções eficazes para o problema proposto.
 ## Possíveis melhorias
-
+Se testarmos o ano 1900, ele aparece como um ano bissexto, porém, na realidade esse ano não é bissexto, 
 ## Considerações Finais 
 
 ![Calendário](https://agenciagov.ebc.com.br/noticias/202501/por-que-o-ano-dura-365-dias-5-horas-48-minutos-e-46-segundos-descubra-a-ciencia-por-tras-do-calendario/@@images/5dca64db-6630-4de7-acfe-f6d895aaf766.png)
